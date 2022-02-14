@@ -4,4 +4,4 @@ template: "full-width"
 draft: false
 ---
 
-Terms and conditions page content
+Terms and conditions page content.
